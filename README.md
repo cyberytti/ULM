@@ -19,3 +19,7 @@ By combining these models, the ULM can provide a powerful and versatile chatbot 
 
 # Architecture of ULM:
 ![](https://github.com/cyberytti/ULM/blob/main/Screenshot_2024-08-22-21-49-19-26.jpg)
+
+**Explanation:**
+
+The user will initially input data. This input will be classified into a desired category by the classifier. Based on this classification, a suitable model will be selected. Finally, the output will be generated using the chosen model.
