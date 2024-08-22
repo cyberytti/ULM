@@ -26,3 +26,15 @@ The user will initially input data. This input will be classified into a desired
 
 # Future improvements: 
 We plan to incorporate high-quality, proprietary models into this project soon, resulting in the development of a supermodel (ULM model).
+
+# Installation:
+To install and run this system, follow these steps:
+ * Clone the repository. This will download the necessary code files to your local machine.
+ * Obtain API keys for Groq, Together AI, and OpenRoute AI. You'll need to create accounts with these services and obtain their respective API keys, which are unique identifiers that allow your code to interact with their APIs.
+ * Install Groq and OpenAI libraries. Use the following commands in your terminal to install the required Python libraries:
+   pip install groq
+pip install openai
+
+ * Open the main_model.py file. This file contains the core logic of the system.
+ * Update the API keys. Locate the designated sections within the main_model.py file and replace the placeholder string with your obtained API keys.
+ * Run the model. Once the keys are configured, execute the script.
