@@ -16,3 +16,6 @@ By combining these models, the ULM can provide a powerful and versatile chatbot 
  * It can handle a wide range of tasks efficiently by combining various LLMs.
  * It will provide more accurate responses if we choose the perfect LLMs to combine.
  * It can grow with evaluations of models. This means that in the future, when LLMs become more effective, we can create even more powerful models with ULM.
+
+# Architecture of ULM:
+![](https://github.com/cyberytti/ULM/blob/main/Screenshot_2024-08-22-21-49-19-26.jpg)
