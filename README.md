@@ -36,9 +36,11 @@ To install and run this system, follow these steps:
 ```bash
 # Install Groq module.
 pip install groq
+```
+
+```bash
 # Install openai module.
 pip install openai
-
 ```
 
  * Open the main_model.py file. This file contains the core logic of the system.
