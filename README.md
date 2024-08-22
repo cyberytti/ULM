@@ -46,3 +46,4 @@ pip install openai
  * Open the main_model.py file. This file contains the core logic of the system.
  * Update the API keys. Locate the designated sections within the main_model.py file and replace the placeholder string with your obtained API keys.
  * Run the model. Once the keys are configured, execute the script.
+
