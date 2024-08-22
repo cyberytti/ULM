@@ -5,9 +5,9 @@ A ULM is a technique that combines multiple large language models (LLMs) special
  * Efficiency: LLMs can focus on their areas of expertise, leading to more accurate and efficient responses.
  * Customization: ULMs can be tailored to meet specific needs and requirements.
 Example: A ULM might combine:
- * GPT-4o mini for general chat and conversation.
- * GPT-4 latest for complex tasks like math problem-solving and critical thinking.
- * Claude 3.5 sonnet for coding-related requests.
+ 1. GPT-4o mini for general chat and conversation.
+ 2. GPT-4 latest for complex tasks like math problem-solving and critical thinking.
+ 3. Claude 3.5 sonnet for coding-related requests.
 By combining these models, the ULM can provide a powerful and versatile chatbot capable of handling a wide range of tasks.
 
 # Benefits of ULM:
