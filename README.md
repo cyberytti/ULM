@@ -9,3 +9,10 @@ Example: A ULM might combine:
  * GPT-4 latest for complex tasks like math problem-solving and critical thinking.
  * Claude 3.5 sonnet for coding-related requests.
 By combining these models, the ULM can provide a powerful and versatile chatbot capable of handling a wide range of tasks.
+
+# Benefits of ULM:
+* we can customize our own model and enhance its skills in specific domains.
+ * ULM is more cost-effective and practical to use.
+ * It can handle a wide range of tasks efficiently by combining various LLMs.
+ * It will provide more accurate responses if we choose the perfect LLMs to combine.
+ * It can grow with evaluations of models. This means that in the future, when LLMs become more effective, we can create even more powerful models with ULM.
