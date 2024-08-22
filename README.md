@@ -53,4 +53,4 @@ pip install rich
  * Run the model. Once the keys are configured, execute the script.
 
 # Contact:
-If you'd like to connect further, you can find me on Instagram as @true_living.
+If you'd like to connect further, you can find me on Instagram as [@true_living.](https://www.instagram.com/sagnik628/)
